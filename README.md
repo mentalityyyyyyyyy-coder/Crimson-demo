@@ -1,8 +1,4 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=60&duration=2000&pause=500&color=00FF66&center=true&vCenter=true&repeat=true&width=500&height=100&lines=Welcome">
-
-</div>
+![School animation](school.gif)
 
 
 Your account has probably been hacked at least once.
