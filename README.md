@@ -1,7 +1,10 @@
-✴ **Crimson**
+<p align="center">
+  <img src="https://YOUR-SVG-URL/welcome.svg" alt="Welcome" />
+</p>
 
-    Your account has probably been hacked at least once.
-    Maybe not GitHub. Maybe somewhere else.
+
+Your account has probably been hacked at least once.
+Maybe not GitHub. But somewhere else.
 
 It sucks, right?
 
